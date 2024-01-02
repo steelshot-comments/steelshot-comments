@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @steelshot
 - 👀 I’m interested in web dev
-- 🌱 I’m currently learning svelte and nextjs
+- 🌱 I’m currently learning svelte
