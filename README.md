@@ -1,5 +1,5 @@
 # Who am I?
-Check out my personal website - ![Who is yeshaya?](whoisyeshaya.netlify.app)
+Check out my personal website - ![Who is yeshaya?](https://whoisyeshaya.netlify.app)
 
 ---
 
