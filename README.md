@@ -3,12 +3,12 @@ Check out my personal website - [Who is yeshaya?](https://whoisyeshaya.netlify.a
 
 ---
 
-<h2 align="center">📅 Monthly Dashboard (October)</h2>
+<h2 align="center">📅 Monthly Dashboard (Marcch)</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/coding_streak-23_days-703402?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/coding_streak-22_days-703402?style=for-the-badge" />
   <img src="https://img.shields.io/badge/avg_focus-5.0_hrs-C53518?style=for-the-badge" />
   <img src="https://img.shields.io/badge/avg_sleep-6.5_hrs-DB9B16?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/sleep_streak-29_days-CD7652?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/sleep_streak-22_days-CD7652?style=for-the-badge" />
 </p>
 
 <p align="center">
